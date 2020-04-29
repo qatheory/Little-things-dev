@@ -2,7 +2,7 @@
   <v-container fluid class="pa-0">
     <v-row class="ma-0" max-height="100vh">
       <v-col class="pa-0" lg="3" md="4" sm="6" xs="12">
-        <v-card height="100%">
+        <v-card data-aos="fade-right" data-aos-duration="800" height="100%">
           <v-img height="100%" src="/img/cosmetic/img_side.jpg">
             <v-row class=" white--text" style="margin-top:25% !important">
               <v-col>
