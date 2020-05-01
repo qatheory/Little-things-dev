@@ -2,8 +2,13 @@
   <v-container fluid class="pa-0">
     <v-row class="ma-0">
       <v-col class="pa-0" lg="3" md="4" sm="6" xs="12">
-        <v-card data-aos="fade-right" data-aos-duration="800" height="100%">
-          <v-img height="100%" src="/img/cosmetics/img_side.jpg">
+        <v-card height="100%">
+          <v-img
+            data-aos="fade-right"
+            data-aos-duration="800"
+            height="100%"
+            src="/img/cosmetics/img_side.jpg"
+          >
             <v-row class=" white--text" style="margin-top:25% !important">
               <v-col>
                 <div class="mx-auto" style="width:50% !important">
